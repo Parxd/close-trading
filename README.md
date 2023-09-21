@@ -1,2 +1,10 @@
 # Trading At The Close Competition
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+- Linear regression
+- Random forest (for feature selection)
+- MLP
+- LSTM
+- Vanilla Transformer
+- Block-Recurrent Transformer
+
+- Unsupervised to see potential groupings?
